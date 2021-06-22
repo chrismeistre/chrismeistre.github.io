@@ -18,3 +18,5 @@ Right now I am trying to move into a role that is more focused on Cyber Security
 ### Contact me
 
 [chris@cmcs.co.za](mailto:chris@cmcs.co.za)
+
+[My Resume](https://www.chrismeistre.co.za/)
