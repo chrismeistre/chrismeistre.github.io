@@ -3,8 +3,6 @@ layout: post
 title: Proving Grounds - Solstice
 ---
 
-### Summary
-
 Solstice is a Linux box that is available on [Offensive Security's Proving Grounds](https://www.offensive-security.com/labs/individual/).  It's rated as an Easy box, and rightfully so.  There were a few rabbit holes, but if you considered all the variables before going down the rabbit hole, you would successfully avoid them.
 
 *Initial foothold:* LFI
