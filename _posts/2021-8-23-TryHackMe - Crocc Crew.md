@@ -14,7 +14,40 @@ The room is called Crocc Crew, and is available at [https://tryhackme.com/room/c
 The first thing I did was a portscan:
 
 ```
-
+PORT      STATE SERVICE       VERSION
+53/tcp    open  domain        Simple DNS Plus
+80/tcp    open  http          Microsoft IIS httpd 10.0
+|_http-csrf: Couldn't find any CSRF vulnerabilities.
+|_http-dombased-xss: Couldn't find any DOM based XSS.
+|_http-server-header: Microsoft-IIS/10.0
+|_http-stored-xss: Couldn't find any stored XSS vulnerabilities.
+88/tcp    open  kerberos-sec  Microsoft Windows Kerberos (server time: 2021-08-22 04:58:15Z)
+135/tcp   open  msrpc         Microsoft Windows RPC
+139/tcp   open  netbios-ssn   Microsoft Windows netbios-ssn
+389/tcp   open  ldap          Microsoft Windows Active Directory LDAP (Domain: COOCTUS.CORP0., Site: Default-First-Site-Name)
+|_sslv2-drown: 
+445/tcp   open  microsoft-ds?
+464/tcp   open  kpasswd5?
+593/tcp   open  ncacn_http    Microsoft Windows RPC over HTTP 1.0
+636/tcp   open  tcpwrapped
+|_ssl-ccs-injection: No reply from server (TIMEOUT)
+|_sslv2-drown: 
+3268/tcp  open  ldap          Microsoft Windows Active Directory LDAP (Domain: COOCTUS.CORP0., Site: Default-First-Site-Name)
+|_sslv2-drown: 
+3269/tcp  open  tcpwrapped
+|_ssl-ccs-injection: No reply from server (TIMEOUT)
+|_sslv2-drown: 
+3389/tcp  open  ms-wbt-server Microsoft Terminal Services
+|_sslv2-drown: 
+9389/tcp  open  mc-nmf        .NET Message Framing
+49666/tcp open  msrpc         Microsoft Windows RPC
+49668/tcp open  msrpc         Microsoft Windows RPC
+49672/tcp open  ncacn_http    Microsoft Windows RPC over HTTP 1.0
+49674/tcp open  msrpc         Microsoft Windows RPC
+49679/tcp open  msrpc         Microsoft Windows RPC
+49711/tcp open  msrpc         Microsoft Windows RPC
+49885/tcp open  msrpc         Microsoft Windows RPC
+Service Info: Host: DC; OS: Windows; CPE: cpe:/o:microsoft:windows
 ```
 
 We clearly what looks like a domain controller here.  
