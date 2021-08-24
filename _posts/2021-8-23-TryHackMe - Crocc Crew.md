@@ -50,7 +50,7 @@ PORT      STATE SERVICE       VERSION
 Service Info: Host: DC; OS: Windows; CPE: cpe:/o:microsoft:windows
 ```
 
-We clearly what looks like a domain controller here.  
+We clearly have what looks like a domain controller here.  
 
 #### HTTP - Port 80
 
