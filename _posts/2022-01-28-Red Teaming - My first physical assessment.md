@@ -180,7 +180,7 @@ By the time I stopped at the store, and got out the car, I was relatively at eas
 
 #### A side note 
 
-It's at this point it's worth noting that we had full permission to do what I was about to do.  There is normally a letter that we get, that we can carry with us.  It's called a "get out of jail free" card.  You normally pull this out if anyone that catch on to what you are doing, and want to phone the police on you.  The letter contains details about why you are at the store and who they can contact at their own head offices to validate the story.  Due to delays that I won't get into, we didn't have this letter yet.  At the same time we were pressed for time to get wrap up this engagement, so I decided to take a calculated risk based on what I observed during my recon of this shop.  I figured the worst that can happen is they take me to the police station while everything gets cleared up over the phone.
+It's at this point it's worth noting that we had full permission to do what I was about to do.  There is normally a letter that we get, that we can carry with us.  It's called a "get out of jail free" card.  You normally pull this out if anyone that catch on to what you are doing, and want to phone the police on you.  The letter contains details about why you are at the store and who they can contact at their own head offices to validate the story.  For anyone attempting this, I would recommend that you always keep that letter on you.
 
 As I passed through the door, my mind was completely focused, and I walked straight to the security guard.  I introduced myself, explained to him that I was there to provide IT support, and asked if he would be so kind as to direct me to where the offices were.  It helped that I was able to provide him a name as well of the person I'm supposed to meet.  The friendly guard happily showed me which direction to go.   I could probably have just walked past him to the offices, but in my mind it was important to setup this contact with the him.  Now he is familiar with me, he knows why I am there, and probably won't even look at me twice when he sees me again.
 
@@ -275,4 +275,5 @@ The laptop was fetched from the store a short while after, again without any que
 - When a phishing attack is noticed, communicate by means other than email that an attacker might have access to
 - Provide ongoing training to staff members about phishing and vhishing attacks, carefully explaining to them the impact
 - Make sure policies are in place to cater for external service providers access to stores
+- Do not neglect physical access securit
 - Segment the network in such a way that compromising one store does not give the attacker access to the complete network
