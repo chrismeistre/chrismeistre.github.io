@@ -275,5 +275,5 @@ The laptop was fetched from the store a short while after, again without any que
 - When a phishing attack is noticed, communicate by means other than email that an attacker might have access to
 - Provide ongoing training to staff members about phishing and vhishing attacks, carefully explaining to them the impact
 - Make sure policies are in place to cater for external service providers access to stores
-- Do not neglect physical access securit
+- Do not neglect physical access security
 - Segment the network in such a way that compromising one store does not give the attacker access to the complete network
