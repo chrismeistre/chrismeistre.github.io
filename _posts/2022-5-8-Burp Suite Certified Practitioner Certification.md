@@ -7,7 +7,7 @@ title: Burp Suite Certified Practitioner Certification
 
 ### UPDATE
 
->I have to give kudos to Portswigger for reaching out to me personally when they became aware of this blogpost.  They asked me to provide evidence of the support query I lodged that I mentioned was never replied to.  It would appear that due to some technical issue, either on my mail server or on theirs, or somewhere in between, my query never reached them.  They could have simply ignored this issue, but they chose to reach out to try and resolve the issue so that it could be possibly be avoid in the future.  I commend them for that.
+>I have to give kudos to Portswigger for reaching out to me personally when they became aware of this blogpost.  They asked me to provide evidence of the support query I lodged that I mentioned was never replied to.  It would appear that due to some technical issue, either on my mail server or on theirs, or somewhere in between, my query never reached them.  They could have simply ignored this issue, but they chose to reach out to try and resolve the issue so that it could possibly be avoided in the future.  I commend them for that.
 
 I was able to recently complete the exam that is required to obtain this certification.  
 
